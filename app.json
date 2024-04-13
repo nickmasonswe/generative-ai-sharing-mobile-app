@@ -2,7 +2,7 @@
   "expo": {
     "name": "gen-ai-sharing",
     "scheme": "gen-ai-sharing",
-    "slug": "jsm",
+    "slug": "gen-ai-sharing",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
