@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "jsm",
+    "scheme": "gen-ai-sharing",
     "slug": "jsm",
     "version": "1.0.0",
     "orientation": "portrait",
